@@ -1,5 +1,5 @@
 # Test case for httpimport
 # https://github.com/operatorequals/httpimport/
 
-def sumjk():
+def hello():
   print("Hello world")
